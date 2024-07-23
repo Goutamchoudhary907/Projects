@@ -1,0 +1,41 @@
+*{
+    margin:0;
+}
+span{
+    margin: 0px;
+    display: block;
+}
+
+.canvas{
+   margin: 100px auto 100px;
+   width: 80%;
+   text-align: center;
+}
+.button{
+    height: 100px;
+    width: 100px;
+    border: solid 2px #212121;
+    display: inline-block;
+}
+
+h1{
+    font-family: sans-serif;
+}
+#grey{
+    background-color: grey;
+}
+
+#white{
+    background-color: white;
+}
+#blue{
+    background-color: blue;
+}
+
+#yellow{
+    background-color: yellow;
+}
+
+h2{
+    text-align: center;
+}
